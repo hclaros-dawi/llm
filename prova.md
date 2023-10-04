@@ -1,6 +1,9 @@
 # **HIDEMI VALERY CLAROS CAMPOS**
 
 
+![image]("C:\Users\USUARIO\Downloads\image.jpg")
+
+
 ## **hidemiclaros@hotmail.com**
 
 
