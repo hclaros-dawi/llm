@@ -1,7 +1,7 @@
 # **HIDEMI VALERY CLAROS CAMPOS**
 
 
-![image](["C:\Users\USUARIO\Downloads\image.jpg"](https://github.com/hclaros-dawi/llm/blob/main/image.jpg))
+![image](image.jpg)
 
 
 ## **hidemiclaros@hotmail.com**
