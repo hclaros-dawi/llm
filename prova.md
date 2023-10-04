@@ -15,5 +15,5 @@
 From April 2022 to April 2023: DIRECT CHANNEL DEPARTMENT JUNIOR EXECUTIVE     
 
 
-Palma, Spain
+_Palma, Spain_
 
