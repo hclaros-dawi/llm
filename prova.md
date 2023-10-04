@@ -58,6 +58,11 @@ _Palma de Mallorca, Spain_
 [Cisco Networking Academy web](https://www.netacad.com/academy/35353)
 
 
+-Internet de las cosas y transformación digital
+
+
+-Programación con Python I
+
 
 
 
