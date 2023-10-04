@@ -1,11 +1,2 @@
-# Hola
-
-Això es una prova
-
-> Això es una cita
-
-Una llista de coses
-
-+ Une 
-+ Dues
-+ Tres
+#**HIDEMI VALERY CLAROS CAMPOS**
+##**hidemiclaros@hotmail.com**
