@@ -9,7 +9,7 @@
 
 ****************************************************************************************************
 
-**EXPERIENCIA LABORAL**
+## **EXPERIENCIA LABORAL**
 
 
 04/07/2022 – 17/04/2023: APOYO EN EL DEPARTAMENTO DEL CANAL DIRECTO DE HYATT     
@@ -41,3 +41,9 @@ _Palma, Spain_
 
 -Revisión de los distintos canales que afectan a la distribución canal directo para su posterior optimización. Canales
 involucrados sobre los que se realizará la actualización de contenidos: Principales Metabuscadores: Google, Tripadvisor, Trivago, Holidaycheck, Bing
+
+
+## **EDUCACIÓN y FORMACIÓN**
+
+
+
