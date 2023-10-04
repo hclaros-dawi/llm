@@ -15,7 +15,7 @@
 ### **04/07/2022 – 17/04/2023: Apoyo en el departamento del canal directo de Hyatt**  
 
 
-_Palma, Spain_
+_Palma de Mallorca, Spain_
 
 
 -Carga de contenido en principales webs de la compañía (CMS y CRS)
@@ -47,6 +47,15 @@ involucrados sobre los que se realizará la actualización de contenidos: Princi
 
 
 ### **23/05/2023 – 18/08/2023: Curso básico de programación (Chicos y chicas TEC)**
+
+
+_**Cisco Networking Academy**_
+
+
+_Palma de Mallorca, Spain_
+
+
+
 
 
 
