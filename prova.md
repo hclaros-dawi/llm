@@ -12,7 +12,7 @@
 ## **EXPERIENCIA LABORAL**
 
 
-04/07/2022 – 17/04/2023: APOYO EN EL DEPARTAMENTO DEL CANAL DIRECTO DE HYATT     
+### **04/07/2022 – 17/04/2023: APOYO EN EL DEPARTAMENTO DEL CANAL DIRECTO DE HYATT**  
 
 
 _Palma, Spain_
@@ -43,7 +43,11 @@ _Palma, Spain_
 involucrados sobre los que se realizará la actualización de contenidos: Principales Metabuscadores: Google, Tripadvisor, Trivago, Holidaycheck, Bing
 
 
-## **EDUCACIÓN y FORMACIÓN**
+## **EDUCACIÓN Y FORMACIÓN**
+
+
+### **Curso básico de programación (Chicos y chicas TEC)**
+
 
 
 
