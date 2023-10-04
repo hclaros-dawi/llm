@@ -9,11 +9,14 @@
 
 ****************************************************************************************************
 
-**WORK EXPERIENCE**
+**EXPERIENCIA LABORAL**
 
 
-From April 2022 to April 2023: DIRECT CHANNEL DEPARTMENT JUNIOR EXECUTIVE     
+De Abril 2022 a April 2023: APOYO EN EL DEPARTAMENTO DE CANAL DIRECTO DE HYATT     
 
 
 _Palma, Spain_
 
+
+-Carga de contenido en principales webs de la compañía (CMS y CRS)
+-Carga de contenido en principales metabuscadores
